@@ -1,0 +1,59 @@
+[
+    {
+        "id":"chaka_01903",
+        "url":"https://i.ibb.co/qFxyHQt/chaka.png",
+        "urlOne": "https://i.ibb.co/B4rb3sb/chaka-1.png",
+        "urlTwo": "https://i.ibb.co/3S1BYgM/chaka-2.png",
+        "urlThree": "https://i.ibb.co/VvTgnPd/dashboard.png",
+        "usedTechnologhy": [
+          "React Js",
+          "React-Router-Dom",
+          "React-icons",
+          "React Hook Form",
+          "Tailwind CSS",
+          "Daisy Ui",
+          " Node JS",
+          "Express JS",
+          "Firebase"
+        ],
+        "live":"https://a-12-chaka.web.app"
+    },
+    {
+        "id":"flytographer_1012",
+        "url":"https://i.ibb.co/6PbgdZk/flytographer.png",
+        "urlOne": "https://i.ibb.co/TMJTZkJ/Flytographer-1.png",
+    "urlTwo": "https://i.ibb.co/ZBfDd1h/Flytographer-2.png",
+    "urlThree": "https://i.ibb.co/4JPcZtd/Flytographer-login.png",
+    "usedTechnologhy": [
+      "React Js",
+      "React-Router-Dom",
+      "React-icons",
+      "React Hook Form",
+      "Tailwind CSS",
+      "Daisy Ui",
+      " Node JS",
+      "Express JS",
+      "Firebase"
+    ],
+    "live":"https://a-11-flytographer.web.app"
+    },
+    {
+        "id":"educrat_1032",
+        "url":"https://i.ibb.co/6rNKM6C/learning-platfrom.png",
+        "urlOne": "https://i.ibb.co/Stm4dCQ/educrat-1.png",
+        "urlTwo": "https://i.ibb.co/R0c0PJW/educrat-2.png",
+        "urlThree": "https://i.ibb.co/4JPcZtd/Flytographer-login.png",
+        "usedTechnologhy": [
+          "React Js",
+          "React-Router-Dom",
+          "React-icons",
+          "React Hook Form",
+          "Tailwind CSS",
+          "Daisy Ui",
+          " Node JS",
+          "Express JS",
+          "Firebase"
+        ],
+        "live":"https://learning-platform-as-10-e1de6.web.app"
+    }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "id": "bugFifing-01",
+    "projectName":"Speed Typer",
+    "imgMockup":"https://i.ibb.co/7Sr6K7D/typemaster.png",
+    "urlOne": "https://i.ibb.co/vcSBHvQ/bUG-FIX.png",
+    "urlTwo": "",
+    "urlThree": "",
+    "usedTechnologhy": [
+      "In this project i fixed some bugs. There was some problrem in js,dom i fixed those problem and finally solved all problem"
+    ],
+    "projectCategory":"JAVASCRIPT",
+    "live":"https://type-master-assignment-7.netlify.app",
+    "clientSide":"",
+    "serverSide":""
+  },
+  {
+    "id": "raectJs-01",
+    "imgMockup":"https://i.ibb.co/jVWBmFF/day-to-routine.png",
+    "urlOne": "https://i.ibb.co/sVxWFdZ/DAY-TO-DAY-ROUTINE.png",
+    "projectName":"Day To Day Routine",
+    "urlTwo": "",
+    "urlThree": "",
+    "usedTechnologhy": [
+      "React Js",
+      "Fake Data"
+    ],
+    "projectCategory":"REACT JS",
+    "live":"https://a-8-day-to-day-routine.netlify.app",
+    "serverSide":"",
+    "clientSide":"https://github.com/Nahid-Hasan-Sourav/day-to-day-routine-a-8"
+  },
+  {
+    "id": "jsdom-01",
+    "projectName":"Select Best 5 Players",
+    "imgMockup":"https://i.ibb.co/g79bYqp/select-best-five.png",
+    "urlOne": "https://i.ibb.co/rdyPdtb/JS-5-PLAYER-SELECT.png",
+    "urlTwo": "",
+    "urlThree": "",
+    "usedTechnologhy": [
+      "In this project i work with js dom"
+    ],
+    "projectCategory":"JAVASCRIPT",
+    "liveLink":"",
+    "frontSide":"",
+    "clientSide":""
+  },
+  {
+    "id": "html-css-bs-01",
+    "projectName":"LEARN-WITH-SOURAV",
+    "imgMockup":"https://i.ibb.co/fqYQvbb/e-tech-learn-with-sourav.png",
+    "urlOne": "https://i.ibb.co/n7X8Ydm/LEARN-WITH-SOURAV.png",
+    "urlTwo": "",
+    "urlThree": "",
+    "usedTechnologhy": [
+      "In this project i used bootstarp-5"
+    ],
+    "projectCategory":"HTML & CSS",
+    "live":"https://nahid-hasan-sourav.github.io/Assignment-3-e-Teach/",
+    "serverSide":"",
+    "clientSide":"https://github.com/Nahid-Hasan-Sourav/Assignment-3-e-Teach"
+  },
+  {
+    "id": "react-quiz-01",
+    "projectName":"My Quiz",
+    "imgMockup":"https://i.ibb.co/WxwFRpv/a9-quiz.png",
+    "urlOne": "https://i.ibb.co/tMZCLrN/m-Y-QUIZ-1.png",
+    "urlTwo": "https://i.ibb.co/pWKXNs2/MY-QUIZ-2.png",
+    "urlThree": "https://i.ibb.co/3YKLh8G/MY-QUIZ-3.png",
+    "usedTechnologhy": [
+      "React quiz app"
+    ],
+    "projectCategory":"REACT JS",
+    "live":"https://a-9-my-quiz.netlify.app/",
+    "serverSide":"",
+    "clientSide":"https://github.com/Nahid-Hasan-Sourav/quiz-app-a-9"
+  },
+  {
+    "id": "js_news_portal_01",
+    "projectName":"News Portal",
+    "imgMockup":"https://i.ibb.co/bP4byDG/news-portal.png",
+    "urlOne": "https://i.ibb.co/LZZ21H1/NEWS-API.png",
+    "urlTwo": "",
+    "urlThree": "",
+    "usedTechnologhy": [
+      "using api call by js"
+    ],
+    "projectCategory":"JAVASCRIPT",
+    "live":"https://news-portal-assignment-6.netlify.app",
+    "serverSide":"",
+    "clientSide":"https://github.com/Nahid-Hasan-Sourav/news-portal-a-6"
+  },
+  {
+    "id": "html-css-bs-02",
+    "imgMockup":"https://i.ibb.co/Jp1Kq3B/responsive-world-cup.png",
+    "projectName":"quatar world cup",
+    "urlOne": "https://i.ibb.co/Dwtp4BX/QUATAR-1.png",
+    "urlTwo": "https://i.ibb.co/wLt5n2G/QUATAR-2.png",
+    "urlThree": "https://i.ibb.co/ZYSphZX/QUATAR-3.png",
+    "usedTechnologhy": [
+      "responsive by html css"
+    ],
+    "projectCategory":"HTML & CSS",
+    "live":"https://nahid-hasan-sourav.github.io/Assignment-2-responsive-world-cup/",
+    "serverSide":"https://github.com/Nahid-Hasan-Sourav/Assignment-2-responsive-world-cup",
+    "clientSide":""
+  },
+  {
+    "id": "chaka-01",
+    "projectName":"Chaka",
+    "imgMockup":"https://i.ibb.co/qFxyHQt/chaka.png",
+    "urlOne": "https://i.ibb.co/B4rb3sb/chaka-1.png",
+    "urlTwo": "https://i.ibb.co/3S1BYgM/chaka-2.png",
+    "urlThree": "https://i.ibb.co/VvTgnPd/dashboard.png",
+    "usedTechnologhy": [
+      "React Js",
+      "React-Router-Dom",
+       "React Hook Form",
+        "Tailwind CSS",
+       " Daisy Ui",
+       " Node JS",
+      " Express JS",
+       " Firebase"
+    ],
+    "projectCategory":"mern",
+    "live":"https://a-12-chaka.web.app",
+    "serverSide":"https://github.com/Nahid-Hasan-Sourav/mern-stack-chaka-server-side",
+    "clientSide":"https://github.com/Nahid-Hasan-Sourav/mern-stack-chaka-client-side"
+  },
+  {
+    "id": "flytographer-01",
+    "imgMockup":"https://i.ibb.co/6PbgdZk/flytographer.png",
+    "projectName":"Flytographer",
+    "urlOne": "https://i.ibb.co/TMJTZkJ/Flytographer-1.png",
+    "urlTwo": "https://i.ibb.co/ZBfDd1h/Flytographer-2.png",
+    "urlThree":"https://i.ibb.co/4JPcZtd/Flytographer-login.png",
+    "usedTechnologhy": [
+      "React Js",
+      "React-Router-Dom",
+       "React Hook Form",
+        "Tailwind CSS",
+       " Daisy Ui",
+       " Node JS",
+      " Express JS",
+       " Firebase"
+    ],
+    "projectCategory":"mern",
+    "live":"https://a-11-flytographer.web.app",
+    "serverSide":"https://github.com/Nahid-Hasan-Sourav/a-11-service-review-server-side",
+    "clientSide":"https://github.com/Nahid-Hasan-Sourav/a-11-service-review-client-side"
+  },
+  {
+    "id": "educrat-01",
+    "projectName":"Educrat",
+    "imgMockup":"https://i.ibb.co/6rNKM6C/learning-platfrom.png",
+    "urlOne": "https://i.ibb.co/Stm4dCQ/educrat-1.png",
+    "urlTwo": "https://i.ibb.co/R0c0PJW/educrat-2.png",
+    "urlThree":"https://i.ibb.co/4JPcZtd/Flytographer-login.png",
+    "usedTechnologhy": [
+      "React Js",
+      "React-Router-Dom",
+       "React Hook Form",
+        "Tailwind CSS",
+       " Daisy Ui",
+       " Node JS",
+      " Express JS",
+       " Firebase"
+    ],
+    "projectCategory":"mern",
+    "live":"https://learning-platform-as-10-e1de6.web.app",
+    "clientSide":"https://github.com/Nahid-Hasan-Sourav/a-10-learning-platform-client-side",
+    "serverSide":"https://github.com/Nahid-Hasan-Sourav/a-10-learning-platform-server-side"
+  }
+]

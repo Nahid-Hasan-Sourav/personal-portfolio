@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "HTML",
+        "IconUrl": "https://i.ibb.co/jWnm6V0/html-5.png",
+        "Description": ""
+    },
+    {
+        "Name": "CSS",
+        "IconUrl": "https://i.ibb.co/7nzthGh/css-3.png",
+        "Description": ""
+    },
+    {
+        "Name": "BOOTSTARP 5",
+        "IconUrl": "https://i.ibb.co/S6JhPgV/bootstrap.png",
+        "Description": ""
+    },
+    {
+        "Name": "Js",
+        "IconUrl": "https://i.ibb.co/g64Y8p0/js-file.png",
+        "Description": ""
+    },
+    {
+        "Name": "React JS",
+        "IconUrl": "https://i.ibb.co/PFrYL3C/physics.png",
+        "Description": ""
+    },
+    {
+        "Name": "Photoshop",
+        "IconUrl": "https://i.ibb.co/wJy1yWg/photoshop.png",
+        "Description": ""
+    },
+    {
+        "Name": "Illustrator",
+        "IconUrl": "https://i.ibb.co/6wd14HV/illustrator.png",
+        "Description": ""
+    }
+]
